@@ -3,6 +3,11 @@
 
  [![npm](https://img.shields.io/npm/v/npm-publish-react-component)](https://www.npmjs.com/package/npm-publish-react-componentr) [![npm](https://img.shields.io/npm/l/npm-publish-react-component)](https://www.npmjs.com/package/npm-publish-react-component) ![react supported](https://img.shields.io/badge/React-%5E16.8.0-blue.svg)
 
+
+关注微信公众号：
+![](./assert/douyacun_qrcode.jpg)
+
+
 已经成功发布 [react 天气组件](https://www.npmjs.com/package/react-tencent-weather) , 以及  [npm publis react demo ](https://www.npmjs.com/package/npm-publish-react-component) 简单实例，此文就是基于此demo
 
 完整代码已经发到 Github:  [https://github.com/douyacun/npm-publish-react-component](https://github.com/douyacun/npm-publish-react-component) 
